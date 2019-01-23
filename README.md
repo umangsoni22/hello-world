@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Hi there, this is my github training project. Hello WORKLD!!
