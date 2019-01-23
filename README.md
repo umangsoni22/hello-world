@@ -1,2 +1,2 @@
 # hello-world
-Hi there, this is my github training project. Hello WORKLD!!
+Hi there, this is my github training project. Hello WORLD!!
